@@ -1,2 +1,3 @@
 # test_of_the_age
-Hello s
+Hello today is Friday
+it is a great day for steak
